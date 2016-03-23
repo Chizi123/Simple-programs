@@ -9,7 +9,7 @@
 int main(void)
 {
 	// Welcome user to program
-	printf("Welcome to time incrementation.\nPress the enter key to incrment the time by one minute.\n");
+	printf("Welcome to time incrementation.\nPress any key to incrment the time by one minute.\n");
 	//create time numbers
 	int h = 12, m = 00;
 	char* noon = "AM";
