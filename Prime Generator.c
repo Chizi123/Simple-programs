@@ -2,7 +2,6 @@
  * Prime numeber generator
  * 
  * Made by Joel Grunbaum
- * joelgrun@gmail.com
  */
 
 #include <stdio.h>
