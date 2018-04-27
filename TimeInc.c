@@ -1,6 +1,5 @@
 /**
  * Incrementation program using time
- * By Joel Grunbaum
 **/
 
 #include <stdio.h>
