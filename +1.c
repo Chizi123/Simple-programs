@@ -2,7 +2,6 @@
  * Program to add one to a number and print it indefinately
  * 
  * By Joel Grunbaum
- * joelgrun@gmail.com
 **/
 
 #include <stdio.h>
